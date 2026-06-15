@@ -4,7 +4,6 @@
 - Dharani Malla
 - Rishika Upadhyay
 - Himanshu Kataria
-- Siddhant Shukla
 
 ## Project Objective
 The objective of this project is to perform Cohort Retention Analysis and Customer Lifetime Value (CLTV) analysis using transactional customer data. The project aims to identify customer retention patterns, measure customer value over time, analyze churn behavior, and generate insights that help businesses improve customer retention and profitability.
