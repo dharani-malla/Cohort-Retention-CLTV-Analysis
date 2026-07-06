@@ -11,7 +11,6 @@ The objective of this project is to perform Cohort Retention Analysis and Custom
 ## Project Description
 Customer retention is one of the most important factors for business growth. This project focuses on analyzing customer behavior over time using cohort analysis and calculating Customer Lifetime Value (CLTV). The insights generated from this analysis can help businesses improve customer retention strategies, reduce churn, and increase long-term revenue.
 
-
 ## Dataset
 - **Dataset:** Online Retail E-Commerce Dataset
 - **Source:** Kaggle
@@ -65,6 +64,22 @@ Customer retention is one of the most important factors for business growth. Thi
 - Regional Performance Analysis
 - Rule-Based Business Decision Engine
 - Final Project Dashboard Summary
+
+## Project Outputs
+The project generates the following outputs:
+- Cleaned Online Retail Dataset
+- Cohort Ready Dataset
+- Cohort Retention Matrix
+- Customer Retention Analysis
+- Average Order Value (AOV) Summary
+- Purchase Frequency Analysis
+- Historical Customer Lifetime Value (CLTV) Analysis
+- Customer Segmentation Results
+- Country-wise Revenue Analysis
+- Business KPI Dashboard
+- Executive Business Insights
+- Business Decision Recommendations
+- Final Project Summary
 
 ## Repository Contents
 
